@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Front-End Developer with 2.3+ years of experience in building scalable and responsive web and mobile applications using React, React Native, and Next.js. I specialize in writing clean, maintainable code and creating seamless user experiences.
+I'm a passionate Front-End Developer with 2+ years of experience in building scalable and responsive web and mobile applications using React, React Native, and Next.js. I specialize in writing clean, maintainable code and creating seamless user experiences.
 
 I love transforming complex problems into simple, intuitive solutions. My recent work includes cross-platform apps, eCommerce platforms, and real-time web tools.
 
@@ -15,11 +15,11 @@ I love transforming complex problems into simple, intuitive solutions. My recent
 
 ## 🛠 Tech Stack
 
-**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3  
-**Libraries/Frameworks:** React.js, React Native, Next.js, Redux, Context API, Node.js, Express.js  
-**Styling:** Tailwind CSS, Material UI, Bootstrap  
-**Testing:** Jest, Cucumber, Enzyme, React Testing Library  
-**Tools & Platforms:** Git, GitHub, GitLab, Postman, Firebase, Google Analytics, Clerk, Stripe, MongoDB, CI/CD  
+**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
+**Libraries/Frameworks:** React.js, React Native, Next.js, Redux, Context API, Node.js, Express.js
+**Styling:** Tailwind CSS, Material UI, Bootstrap
+**Testing:** Jest, Cucumber, Enzyme, React Testing Library
+**Tools & Platforms:** Git, GitHub, GitLab, Postman, Firebase, Google Analytics, Clerk, Stripe, MongoDB, CI/CD, Inngest
 
 ---
 
