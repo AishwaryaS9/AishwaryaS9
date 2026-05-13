@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aishwarya S!
 
-🎯 **Front-End Developer** | 💻 React.js • React Native • TypeScript  
+🎯 **Front-End Developer** | 💻 React.js • React Native • TypeScript • Next.js
 📧 [aishwaryasudupi9@gmail.com](mailto:aishwaryasudupi9@gmail.com)  
 
 ---
@@ -16,7 +16,7 @@ I love transforming complex problems into simple, intuitive solutions. My recent
 ## 🛠 Tech Stack
 
 **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
-**Libraries/Frameworks:** React.js, React Native, Next.js, Redux, Context API, Node.js, Express.js
+**Libraries/Frameworks:** React.js, React Native, Next.js, Redux, Context API, Node.js, Express.js, PostgreSQL
 **Styling:** Tailwind CSS, Material UI, Bootstrap
 **Testing:** Jest, Cucumber, Enzyme, React Testing Library
 **Tools & Platforms:** Git, GitHub, GitLab, Postman, Firebase, Google Analytics, Clerk, Stripe, MongoDB, CI/CD, Inngest
