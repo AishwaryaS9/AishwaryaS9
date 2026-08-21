@@ -69,16 +69,4 @@ I love transforming complex problems into simple, intuitive solutions. My recent
 
 ---
 
-### ✅ If stats still don't load
-
-The public `github-readme-stats.vercel.app` instance is known to be rate-limited and occasionally goes down (this is a widely reported upstream issue, not specific to your profile). For a permanent fix:
-
-1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Deploy your fork to your own free Vercel project
-3. Replace `github-readme-stats.vercel.app` in the image URLs above with your own Vercel deployment URL
-
-This removes you from the shared rate limit entirely and the cards will load reliably.
-
----
-
 _Thanks for visiting!_
