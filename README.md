@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aishwarya S 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> | Next.js • TypeScript • React.js • JavaScript • React Native • Tailwind CSS • shadcn/ui
+  <b>Frontend Engineer</b> | Next.js • TypeScript • React.js • JavaScript • React Native • Tailwind CSS • shadcn/ui
 </p>
 
 <p align="center">
