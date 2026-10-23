@@ -29,13 +29,13 @@ I love transforming complex problems into simple, intuitive solutions. My recent
  
 **Frontend:** React.js, React Native, Next.js, Redux, Zustand, TanStack Query, Context API
  
-**Backend:** Node.js, Express.js, Prisma
+**Backend:** Node.js, Express.js, Prisma, GraphQL
  
 **Databases:** PostgreSQL, MongoDB, Supabase
  
 **Styling:** Tailwind CSS, shadcn/ui, Material UI, Bootstrap, Framer Motion
  
-**Testing:** Jest, Cucumber, Enzyme, React Testing Library
+**Testing:** Jest, Cucumber, Enzyme, React Testing Library, Vitest
  
 **Tools & Platforms:** Git, GitHub, GitLab, Postman, Firebase, Google Analytics, Clerk, Stripe, Razorpay, CI/CD, Inngest
  
